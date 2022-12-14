@@ -11,6 +11,8 @@ namespace tabuleiro
         public TabuleiroException(string msg) : base(msg)
         {
 
+           
+
         }
     }
 }
